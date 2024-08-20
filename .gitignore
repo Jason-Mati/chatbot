@@ -1,3 +1,10 @@
+env/
+.env
+files/
+.cache/
+.streamlit
+.etc.txt
+
 .streamlit/secrets.toml
 
 # Byte-compiled / optimized / DLL files
